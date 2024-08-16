@@ -22,6 +22,9 @@ header {
     color: #fff;
     padding: 1rem 0;
 }
+header a {
+    text-decoration: none;
+}
 
 header .container {
     display: flex;
