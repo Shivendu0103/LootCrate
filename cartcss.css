@@ -32,9 +32,9 @@ header .container {
 }
 
 header h1 {
-    margin: 0;/* Reset some default styling */
     margin: 0;
-    color: #FFDA76;
+    margin: 0;
+    color: #021526;
     font-family: 'Zilla Slab', serif;
     font-size: 48px;
     font-weight: 700;
